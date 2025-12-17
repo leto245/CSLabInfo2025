@@ -1,0 +1,115 @@
+# 上海 AI Lab × 上交 / 复旦 / 浙大 联合培养博士生招生  
+## 方向：LLM / MLLM 安全与可信（AI Safety & Trustworthiness）
+
+---
+
+## 导师简介
+
+**刘东瑞**  
+上海人工智能实验室（Shanghai AI Lab）青年科学家  
+上海交通大学博士  
+个人主页：https://shenqildr.github.io/
+
+主要从事 **AI 安全可信（AI Safety & Trustworthiness）** 研究，关注大语言模型（LLM）与多模态大模型（MLLM）在真实应用场景下的安全性、鲁棒性与对齐问题。研究路线以**内生安全**为核心，强调通过理解与调控模型内部机理提升模型性能与安全性。
+
+参与并支持 **SafeWork-R1、SafeWork-F1** 等项目，在安全评测、攻防、对齐与可解释性等方向发表多项研究成果。
+
+**代表性学术成果（部分）：**
+- CVPR 2024 Best Paper Award Candidate（Top 0.2%）
+- ACL 2025 Outstanding Paper Award（Top 0.3%）
+- ICLR 2025 Oral（Top 1.8%）
+- AAAI 2026 Oral（Top 4%）
+- 多篇 ACL 2025 Oral（Top 2%）
+- NeurIPS / EMNLP 等顶级会议论文
+
+---
+
+## 招生类型
+
+- **联合培养博士生（PhD）**  
+  - 联培高校：上海交通大学 / 复旦大学 / 浙江大学
+- **长期实习生**（优秀者可转联培博士）
+- **全职算法工程师 / 研究员**
+
+---
+
+## 研究方向
+
+包括但不限于：
+
+- 大语言模型（LLM）安全与对齐  
+- 多模态大模型（MLLM）安全风险分析  
+- Jailbreak / Prompt Injection 攻击与防御  
+- 模型安全评测、鲁棒性分析与安全边界建模  
+- 可解释性（XAI）与模型内部机理分析  
+- 智能体（Agent）安全与极端风险
+
+---
+
+## 为什么加入我们
+
+### 1. 清晰且可持续的成长路径
+- 联培博士生主要从**长期实习、表现优秀的同学中选拔**
+- 过往实习生去向包括：字节跳动、腾讯、上海 AI Lab  
+  以及北京大学、新加坡、加拿大、美国等高校继续深造
+
+### 2. 稳定的科研产出环境
+- 组内长期实习同学多数以**一作或共同一作**发表 / 投稿顶会论文
+- 多位同学在此完成**首篇顶会论文或首篇 Oral**
+- 持续在 AAAI / ICLR / NeurIPS / ACL / EMNLP 等会议发表成果
+
+### 3. 深度且负责任的科研指导
+- 从研究选题、实验设计到论文写作与投稿，全程参与指导
+- 鼓励独立课题探索，同时提供充分支持
+- 组内形成良好的互助科研氛围
+
+---
+
+## 近期部分研究方向与成果
+
+### Jailbreak / 安全漏洞
+- *LLMs know their vulnerabilities: Uncover Safety Gaps through Natural Distribution Shifts*  
+  ACL 2025 Outstanding Paper Award  
+- *The Devil Behind Mask: An Emergent Safety Vulnerability of Diffusion LLMs*
+
+### 可解释性与对齐（XAI & Alignment）
+- *REEF: Representation Encoding Fingerprints for Large Language Models*  
+  ICLR 2025 Oral  
+- *The Tug of War Within: Mitigating the Fairness-Privacy Conflicts in LLMs*  
+  ACL 2025 Oral  
+- *X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Multi-Turn Jailbreaks*  
+  EMNLP 2025 Findings  
+- *Demystifying Reasoning Dynamics with Mutual Information*  
+  NeurIPS 2025  
+
+### Agent Safety
+- *RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents*  
+  NeurIPS 2025  
+- *Your Agent May Misevolve: Emergent Risks in Self-Evolving LLM Agents*  
+
+---
+
+## 我们希望你具备
+
+- 能保证 **连续 6 个月及以上** 的科研投入  
+- 对 AI 安全 / 大模型研究有真实兴趣  
+- 具备基础 AI 与编程能力（Transformer、深度学习、PyTorch 等）  
+- 硕士 / 博士同学申请需**事先征得本校导师同意**
+
+---
+
+## 申请方式
+
+📮 **申请邮箱**：  
+**drliu96@sjtu.edu.cn**
+
+📌 **邮件主题**：  
+`实习生 / 全职 / 联培博士 - 姓名`
+
+📎 **邮件附件**：  
+- 个人简历  
+- 成绩单  
+- 简要自我介绍（研究兴趣 / 相关经验）
+
+我会认真阅读每一封邮件，并尽快回复。  
+期待与你一起，探索 AI 安全背后的**真问题**。
